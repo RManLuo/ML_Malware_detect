@@ -1,0 +1,9 @@
+pandas
+pickle
+numpy
+csv
+sklearn
+keras
+matplotlib
+keras
+tensoflow
